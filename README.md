@@ -100,4 +100,4 @@ The predictive power of this application comes from a carefully constructed mach
 ## 🤝 Contact
 
 Created with passion by Ayush Anand. Let's connect!
-- **LinkedIn:** [Ayush Anand](https://www.linkedin.com/in/3ayushanand/)
+- **LinkedIn:** [Busetty_Sugnesh](https://www.linkedin.com/in/busetty-sugnesh-948b10329/)
